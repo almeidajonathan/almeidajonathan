@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidajonathan&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidajonathan&layout=compact&langs_count=7"/>
 </div>
-<div style="display: inline_block"><br>
+<div aling="center" style="display: inline_block"><br>
   <img align="center" alt="jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jonathan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jonathan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
