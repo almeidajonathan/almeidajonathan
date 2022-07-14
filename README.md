@@ -1,19 +1,20 @@
-<h2 align="left">Hi there, I'm Jonathan ✌️</h2>
+<h2 align="center">Hi there, I'm Jonathan ✌️</h2>
 
 ###
 
-<p align="left">I live in Brazil, Presidente Epitácio  📌<br>I'm a Computer Science student    💻<br>Becoming a Front-end developer   🚀</p>
+<p align="center">I live in Brazil, Presidente Epitácio  📌<br>I'm a Computer Science student    💻<br>Becoming a Front-end developer   🚀</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&username=almeidajonathan" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&username=almeidajonathan" height="150" alt="languages graph"  />
+<div align="center">
+  <a href="https://github.com/almeidajonathan">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&username=almeidajonathan" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&username=almeidajonathan" height="150"  alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" alt="react logo"  />
@@ -25,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="almeidajonathaan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -39,9 +40,6 @@
 <br clear="both">
 
 
-<div align="center">
-  ![Snake animation](https://github.com/almeidajonathan/almeidajonathan/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 ###
