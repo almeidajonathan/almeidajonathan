@@ -39,5 +39,10 @@
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/almeidajonathan/almeidajonathan/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  
+  ![Snake animation](https://github.com/almeidajonathan/almeidajonathan/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ###
